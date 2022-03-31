@@ -1,4 +1,4 @@
-# This repo contains terraform configuration which deploys 2 VMs in 2 different regions.
+# This repo contains terraform configuration which deploys 3 VMs in 3 different regions.
 
 ### Prerequisites
 
